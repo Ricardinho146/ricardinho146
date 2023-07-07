@@ -20,6 +20,7 @@ Skills: PYTHON / POWER BI / LOOKER STUDIO / SQL
 
 ### 😂 Random Dev Meme
 
+![data_gif](https://github.com/Ricardinho146/ricardinho146/assets/64876358/83eabfcb-3240-4c28-81cb-102f9ac23a4b)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ricardinho146&icon=0&color=0)](https://visitcount.itsvg.in)
